@@ -1,0 +1,20 @@
+
+h1{
+	color:blue;
+	font: 40px arial, sans-serif;
+	
+}
+p{	color:white;
+	font: italic bold 20px/30px Georgia, serif;
+}
+
+ul li{
+	color:white;
+	font: italic bold 20px/30px Georgia, serif;
+}
+
+a{
+	color:red;
+}
+
+body {background-color: rgba(0,0,0,0.8);}
